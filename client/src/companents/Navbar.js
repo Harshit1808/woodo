@@ -12,7 +12,7 @@ const Navbar = ({ user, logout, islogged }) => {
       </Link>
 
       <Menu>
-        <Link to='/aboutus'>about</Link>
+        <Link to='/aboutus'>About</Link>
         <Link to='/furnitures'>Furnitures</Link>
         {islogged ? <Link to='/profile'>Profile</Link> : ''}
       </Menu>

@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Copyrights = () => {
   return (
     <Wrap>
-      <Info>Copyright &copy; 2021 All Rights Reserved by Yash Patil</Info>
+      <Info>Copyright &copy; 2021 All Rights Reserved by Harshit Marothiya</Info>
     </Wrap>
   );
 };
